@@ -1,0 +1,132 @@
+----------------------------------------------
+CRASH: Tue Sep 10 10:11:24 EDT 2013
+Start Line: ./hlds_i686 -game cstrike
+----------------------------------------------
+CRASH: Tue Sep 10 10:14:14 EDT 2013
+Start Line: ./hlds_i686 -game cstrike
+----------------------------------------------
+CRASH: Tue Sep 10 10:14:34 EDT 2013
+Start Line: ./hlds_i686 -game cstrike +port 22
+----------------------------------------------
+CRASH: Tue Sep 10 12:14:12 EDT 2013
+Start Line: ./hlds_i686 -game cstrike +ip 5.175.181.149 +port 20014 +maxplayers 16 +map afk_6killer +sys_ticrate 1000
+----------------------------------------------
+CRASH: Tue Sep 10 12:36:36 EDT 2013
+Start Line: ./hlds_i686 -game cstrike +ip 5.175.181.149 +port 20014 +maxplayers 16 +map de_dust2_long_short +sys_ticrate 1000
+----------------------------------------------
+CRASH: Tue Sep 10 12:48:24 EDT 2013
+Start Line: ./hlds_i686 -game cstrike +ip 5.175.181.149 +port 20014 +maxplayers 16 +map de_dust2_long_short +sys_ticrate 1000
+----------------------------------------------
+CRASH: Wed Sep 11 02:29:13 EDT 2013
+Start Line: ./hlds_i686 -game cstrike +ip 5.175.181.149 +port 20014 +maxplayers 16 +map de_dust2_long_short +sys_ticrate 1000
+----------------------------------------------
+CRASH: Wed Sep 25 00:36:26 EDT 2013
+Start Line: ./hlds_i686 -game cstrike +ip 5.231.51.47 +port 27015 -pingboost 1 -nomaster +maxplayers 22 +map de_dust2
+----------------------------------------------
+CRASH: Wed Sep 25 00:38:21 EDT 2013
+Start Line: ./hlds_i686 -game cstrike +ip 5.231.51.47 +port 27015 -pingboost 1 -nomaster +maxplayers 22 +map de_dust2
+----------------------------------------------
+CRASH: Wed Sep 25 00:41:51 EDT 2013
+Start Line: ./hlds_i686 -game cstrike +ip 5.231.51.47 +port 27015 -pingboost 1 -nomaster +maxplayers 22 +map de_dust2
+----------------------------------------------
+CRASH: Wed Sep 25 04:51:12 EDT 2013
+Start Line: ./hlds_i686 -game cstrike +ip 5.231.51.47 +port 27015 -pingboost 1 -nomaster +maxplayers 22 +map de_dust2
+----------------------------------------------
+CRASH: Wed Sep 25 04:57:17 EDT 2013
+Start Line: ./hlds_i686 -game cstrike +ip 5.231.51.47 +port 27015 -pingboost 1 -nomaster +maxplayers 22 +map de_dust2
+----------------------------------------------
+CRASH: Thu Sep 26 10:45:38 EDT 2013
+Start Line: ./hlds_i686 -game cstrike +ip 5.231.51.47 +port 27015 -pingboost 1 -nomaster +maxplayers 22 +map de_dust2
+----------------------------------------------
+CRASH: Thu Sep 26 15:32:41 EDT 2013
+Start Line: ./hlds_i686 -game cstrike +ip 5.231.51.47 +port 27015 -pingboost 1 -nomaster +maxplayers 22 +map de_dust2
+----------------------------------------------
+CRASH: Fri Sep 27 01:08:28 EDT 2013
+Start Line: ./hlds_i686 -game cstrike +ip 5.231.51.47 +port 27015 -pingboost 1 -nomaster +maxplayers 22 +map de_dust2
+----------------------------------------------
+CRASH: Fri Sep 27 01:13:43 EDT 2013
+Start Line: ./hlds_i686 -game cstrike +ip 5.231.51.47 +port 27015 -pingboost 1 -nomaster +maxplayers 22 +map de_dust2
+----------------------------------------------
+CRASH: Fri Sep 27 01:47:35 EDT 2013
+Start Line: ./hlds_i686 -game cstrike +ip 5.231.51.47 +port 27015 -pingboost 1 -nomaster +maxplayers 22 +map de_dust2
+----------------------------------------------
+CRASH: Fri Sep 27 02:03:42 EDT 2013
+Start Line: ./hlds_i686 -game cstrike +ip 5.231.51.47 +port 27015 -pingboost 1 -nomaster +maxplayers 22 +map de_dust2
+----------------------------------------------
+CRASH: Fri Sep 27 02:06:15 EDT 2013
+Start Line: ./hlds_i686 -game cstrike +ip 5.231.51.47 +port 27015 -pingboost 1 -nomaster +maxplayers 22 +map de_dust2
+----------------------------------------------
+CRASH: Fri Sep 27 02:17:25 EDT 2013
+Start Line: ./hlds_i686 -game cstrike +ip 5.231.51.47 +port 27015 -pingboost 1 -nomaster +maxplayers 22 +map de_dust2
+----------------------------------------------
+CRASH: Fri Sep 27 02:22:25 EDT 2013
+Start Line: ./hlds_i686 -game cstrike +ip 5.231.51.47 +port 27015 -pingboost 1 -nomaster +maxplayers 22 +map de_dust2
+----------------------------------------------
+CRASH: Fri Sep 27 02:25:03 EDT 2013
+Start Line: ./hlds_i686 -game cstrike +ip 5.231.51.47 +port 27015 -pingboost 1 -nomaster +maxplayers 22 +map de_dust2
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Fri Sep 27 02:27:54 EDT 2013
+Start Line: ./hlds_i686 -game cstrike +ip 5.231.51.47 +port 27015 -pingboost 1 -nomaster +maxplayers 22 +map de_dust2
+----------------------------------------------
+CRASH: Fri Sep 27 02:30:21 EDT 2013
+Start Line: ./hlds_i686 -game cstrike +ip 5.231.51.47 +sv_lan 1 -nomaster +maxplayers 32 +map de_dust2 +port 27015
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat 16 May 2020 08:41:04 PM PDT
+Start Line: ./hlds_amd -game cstrike +ip 0.0.0.0 +port 27015 +maxplayer 32 +map de_dust2_long_short +sys_ticrate 1000
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat 16 May 2020 08:41:14 PM PDT
+Start Line: ./hlds_amd -game cstrike +ip 0.0.0.0 +port 27015 +maxplayer 32 +map de_dust2_long_short +sys_ticrate 1000
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat 16 May 2020 08:41:22 PM PDT
+Start Line: ./hlds_amd -game cstrike +ip 0.0.0.0 +port 27015 +maxplayer 32 +map de_dust2_long_short +sys_ticrate 1000
+----------------------------------------------
+CRASH: Sat 16 May 2020 08:41:24 PM PDT
+Start Line: ./hlds_amd -game cstrike +ip 0.0.0.0 +port 27015 +maxplayer 32 +map de_dust2_long_short +sys_ticrate 1000
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat 16 May 2020 08:41:34 PM PDT
+Start Line: ./hlds_amd -game cstrike +ip 0.0.0.0 +port 27015 +maxplayer 32 +map de_dust2_long_short +sys_ticrate 1000
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat 16 May 2020 08:41:44 PM PDT
+Start Line: ./hlds_amd -game cstrike +ip 0.0.0.0 +port 27015 +maxplayer 32 +map de_dust2_long_short +sys_ticrate 1000
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat 16 May 2020 08:41:55 PM PDT
+Start Line: ./hlds_amd -game cstrike +ip 0.0.0.0 +port 27015 +maxplayer 32 +map de_dust2_long_short +sys_ticrate 1000
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat 16 May 2020 08:42:05 PM PDT
+Start Line: ./hlds_amd -game cstrike +ip 0.0.0.0 +port 27015 +maxplayer 32 +map de_dust2_long_short +sys_ticrate 1000
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat 16 May 2020 08:43:32 PM PDT
+Start Line: ./hlds_amd -game cstrike +ip 0.0.0.0 +port 27015 +maxplayer 32 +map de_dust2_long_short +sys_ticrate 1000
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat 16 May 2020 08:44:26 PM PDT
+Start Line: ./hlds_amd -game cstrike +ip 0.0.0.0 +port 27015 +maxplayer 32 +map de_dust2_long_short +sys_ticrate 1000
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat 16 May 2020 08:44:36 PM PDT
+Start Line: ./hlds_amd -game cstrike +ip 0.0.0.0 +port 27015 +maxplayer 32 +map de_dust2_long_short +sys_ticrate 1000
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat 16 May 2020 08:45:40 PM PDT
+Start Line: ./hlds_amd -game cstrike +ip 0.0.0.0 +port 27015 +maxplayer 32 +map de_dust2_long_short +sys_ticrate 1000

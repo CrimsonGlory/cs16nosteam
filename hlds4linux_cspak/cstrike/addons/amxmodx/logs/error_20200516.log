@@ -1,0 +1,18 @@
+L 05/16/2020 - 20:42:15: Start of error session.
+L 05/16/2020 - 20:42:15: Info (map "de_dust2_long_short") (file "addons/amxmodx/logs/error_20200516.log")
+L 05/16/2020 - 20:42:15: [ORPHEU] Function "SV_Rcon" not found
+L 05/16/2020 - 20:42:15: [AMXX] Displaying debug trace (plugin "rconner.amxx")
+L 05/16/2020 - 20:42:15: [AMXX] Run time error 10: native error (native "OrpheuGetFunction")
+L 05/16/2020 - 20:42:15: [AMXX]    [0] rconner.sma::plugin_init (line 26)
+L 05/16/2020 - 20:42:45: Start of error session.
+L 05/16/2020 - 20:42:45: Info (map "de_dust2_long_short") (file "addons/amxmodx/logs/error_20200516.log")
+L 05/16/2020 - 20:42:45: [ORPHEU] Function "SV_Rcon" not found
+L 05/16/2020 - 20:42:45: [AMXX] Displaying debug trace (plugin "rconner.amxx")
+L 05/16/2020 - 20:42:45: [AMXX] Run time error 10: native error (native "OrpheuGetFunction")
+L 05/16/2020 - 20:42:45: [AMXX]    [0] rconner.sma::plugin_init (line 26)
+L 05/16/2020 - 20:46:26: Start of error session.
+L 05/16/2020 - 20:46:26: Info (map "de_dust2_long_short") (file "addons/amxmodx/logs/error_20200516.log")
+L 05/16/2020 - 20:46:26: [ORPHEU] Function "SV_Rcon" not found
+L 05/16/2020 - 20:46:26: [AMXX] Displaying debug trace (plugin "rconner.amxx")
+L 05/16/2020 - 20:46:26: [AMXX] Run time error 10: native error (native "OrpheuGetFunction")
+L 05/16/2020 - 20:46:26: [AMXX]    [0] rconner.sma::plugin_init (line 26)

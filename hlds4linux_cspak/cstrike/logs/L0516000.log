@@ -1,0 +1,13 @@
+L 05/16/2020 - 20:42:15: Log file started (file "logs/L0516000.log") (game "cstrike") (version "48/1.1.2.6/Stdio/5787")
+L 05/16/2020 - 20:42:15: Server cvar "mp_flashlight" = "1"
+L 05/16/2020 - 20:42:15: Server cvar "mp_autokick" = "0"
+L 05/16/2020 - 20:42:15: Server cvar "mp_timelimit" = "60"
+L 05/16/2020 - 20:42:15: Server cvar "mp_roundtime" = "2"
+L 05/16/2020 - 20:42:15: Server cvar "sv_alltalk" = "1"
+L 05/16/2020 - 20:42:15: Server cvar "sv_allowupload" = "0"
+L 05/16/2020 - 20:42:15: Server cvar "sv_voiceenable" = "0"
+L 05/16/2020 - 20:42:15: Server cvar "mp_buytime" = "0.25"
+L 05/16/2020 - 20:42:15: Server cvar "mp_freezetime" = "0"
+L 05/16/2020 - 20:42:15: Server cvar "mp_c4timer" = "35"
+L 05/16/2020 - 20:42:15: Server cvar "sv_maxrate" = "4600"
+L 05/16/2020 - 20:42:21: Log file closed

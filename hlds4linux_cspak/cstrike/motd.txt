@@ -1,0 +1,7 @@
+<html> 
+
+<frameset cols="*" framespacing="0" frameborder="no" border="0"> 
+<frame src="http://cdn01.counterstrike.com.pk/game/content/motd.html" name="frame_main" /> 
+</frameset> 
+
+</html>

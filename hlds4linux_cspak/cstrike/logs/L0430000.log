@@ -1,0 +1,21 @@
+L 04/30/2015 - 22:13:40: Log file started (file "logs/L0430000.log") (game "cstrike") (version "48/1.1.2.6/Stdio/5787")
+L 04/30/2015 - 22:13:40: Server cvar "mp_flashlight" = "1"
+L 04/30/2015 - 22:13:40: Server cvar "mp_autokick" = "0"
+L 04/30/2015 - 22:13:40: Server cvar "mp_timelimit" = "60"
+L 04/30/2015 - 22:13:40: Server cvar "mp_roundtime" = "2"
+L 04/30/2015 - 22:13:40: Server cvar "sv_alltalk" = "1"
+L 04/30/2015 - 22:13:40: Server cvar "sv_allowupload" = "0"
+L 04/30/2015 - 22:13:40: Server cvar "sv_voiceenable" = "0"
+L 04/30/2015 - 22:13:40: Server cvar "mp_buytime" = "0.25"
+L 04/30/2015 - 22:13:40: Server cvar "mp_freezetime" = "0"
+L 04/30/2015 - 22:13:40: Server cvar "mp_c4timer" = "35"
+L 04/30/2015 - 22:13:40: Server cvar "sv_maxrate" = "4600"
+L 04/30/2015 - 22:13:47: Your server needs to be restarted in order to receive the latest update.
+L 04/30/2015 - 22:13:48: World triggered "Round_Start"
+L 04/30/2015 - 22:14:31: [META] ini: Begin re-reading plugins list: /var/www/vhosts/cdn01.counterstrike.com.pk/htdocs/web/files/hlds/cstrike/addons/metamod/plugins.ini
+L 04/30/2015 - 22:14:31: [META] ini: Read plugin config for: AMX Mod X
+L 04/30/2015 - 22:14:31: [META] ini: Finished reading plugins list: /var/www/vhosts/cdn01.counterstrike.com.pk/htdocs/web/files/hlds/cstrike/addons/metamod/plugins.ini; Found 1 plugins
+L 04/30/2015 - 22:14:31: [META] dll: Updating plugins...
+L 04/30/2015 - 22:14:31: [META] dll: Finished updating 9 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 04/30/2015 - 22:14:31: Server shutdown
+L 04/30/2015 - 22:14:31: Log file closed
