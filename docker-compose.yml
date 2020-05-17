@@ -1,0 +1,7 @@
+version: '3'
+services:
+    cs:
+        build: .
+        ports:
+            - "27015:27015/tcp"
+            - "27015:27015/udp"
