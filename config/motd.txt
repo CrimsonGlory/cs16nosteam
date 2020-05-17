@@ -1,0 +1,5 @@
+<html> 
+<body bgcolor="black">
+<center><font color="white" size="20"><b>ArInTeL CS Server</b></font></center>
+</body>
+</html>

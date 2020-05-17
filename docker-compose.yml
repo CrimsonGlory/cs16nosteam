@@ -1,7 +1,13 @@
 version: '3'
 services:
-    cs:
-        build: .
-        ports:
-            - "27015:27015/tcp"
-            - "27015:27015/udp"
+  cs:
+    build: .
+    ports:
+      - "27015:27015/tcp"
+      - "27015:27015/udp"
+    volumes:
+      - ./config/motd.txt:/myapp/cstrike/motd.txt
+      - ./config/server.cfg:/myapp/cstrike/server.cfg
+      - ./config/servsecurity.cfg:/myapp/cstrike/servsecurity.cfg
+      - ./config/fixpinger.cfg:/myapp/cstrike/fixpinger.cfg
+      - ./config/amxx.cfg:/myapp/cstrike/addons/amxmodx/configs/amxx.cfg
