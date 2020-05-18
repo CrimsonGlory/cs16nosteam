@@ -1,9 +1,0 @@
-L 04/30/2015 - 22:16:54: Log file started (file "logs/L0430002.log") (game "cstrike") (version "48/1.1.2.6/Stdio/5787")
-L 04/30/2015 - 22:16:57: World triggered "Round_Start"
-L 04/30/2015 - 22:18:58: [META] ini: Begin re-reading plugins list: /var/www/vhosts/cdn01.counterstrike.com.pk/htdocs/web/files/hlds/cstrike/addons/metamod/plugins.ini
-L 04/30/2015 - 22:18:58: [META] ini: Read plugin config for: AMX Mod X
-L 04/30/2015 - 22:18:58: [META] ini: Finished reading plugins list: /var/www/vhosts/cdn01.counterstrike.com.pk/htdocs/web/files/hlds/cstrike/addons/metamod/plugins.ini; Found 1 plugins
-L 04/30/2015 - 22:18:58: [META] dll: Updating plugins...
-L 04/30/2015 - 22:18:58: [META] dll: Finished updating 9 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
-L 04/30/2015 - 22:18:58: Server shutdown
-L 04/30/2015 - 22:18:58: Log file closed
