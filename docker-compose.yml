@@ -10,4 +10,5 @@ services:
       - ./config/server.cfg:/myapp/cstrike/server.cfg
       - ./config/servsecurity.cfg:/myapp/cstrike/servsecurity.cfg
       - ./config/fixpinger.cfg:/myapp/cstrike/fixpinger.cfg
-      - ./config/amxx.cfg:/myapp/cstrike/addons/amxmodx/configs/amxx.cfg
+      - ./config/amxmodx_config/:/myapp/cstrike/addons/amxmodx/configs/
+      - ./maps/:/myapp/cstrike/maps/
