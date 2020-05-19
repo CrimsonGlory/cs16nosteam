@@ -19,4 +19,4 @@ chown -R cstrike /myapp/cstrike/logs && \
 echo "permissions for cstrike/logs changed"
 RUN echo "going to change user"
 USER cstrike
-CMD ["bash", "-c", "./hlds_run -game cstrike +ip 0.0.0.0 +port 27015 +maxplayer 32 +map de_dust2_long_short +sys_ticrate 1000"]
+CMD ["bash", "-c", "./hlds_run -game cstrike +ip 0.0.0.0 +port 27015 +maxplayers 32 +map de_dust2_long_short +sys_ticrate 1000"]
