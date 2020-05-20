@@ -16,10 +16,3 @@ Relevant config is on config folder. If you want to change other file that it is
 # Known issues
 - Not sure why, but Steam client can't download the maps. If they already have the maps, it works, but if they don't it fails (even if the maps are exactly the same one that are downloaded from other servers by steam clients). Non-steam clients work fine.
 - When there are bots on the server, ```allow_spectators``` setting is ignored. Even if it is 1, you can't spectate.
-- Seems the shield ban and the bots don't get along well
-```
-cs_1  | L 05/20/2020 - 02:38:12: FATAL ERROR (shutting down): SV_ModelIndex: model models/shield/p_shield_usp.mdl n
-ot precached
-cs_1  | FATAL ERROR (shutting down): SV_ModelIndex: model models/shield/p_shield_usp.mdl not precached
-```
-
