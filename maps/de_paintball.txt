@@ -1,0 +1,12 @@
+Paintball - Defusion
+by Lee Loran (CS_GOD) (flick2uk@hotmail.com) 
+
+Counter-Terrorists: Prevent the Terrorists
+bombing the  bridge.
+
+Terrorists: Destroy the main bridge.
+
+Other Notes: There is only 1 bomb site in this 
+mission.
+
+(Press FIRE to continue)
