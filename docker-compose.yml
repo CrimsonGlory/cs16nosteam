@@ -12,3 +12,4 @@ services:
       - ./config/fixpinger.cfg:/myapp/cstrike/fixpinger.cfg
       - ./config/amxmodx_config/:/myapp/cstrike/addons/amxmodx/configs/
       - ./maps/:/myapp/cstrike/maps/
+      - ./config/mapcycle.txt:/myapp/cstrike/mapcycle.txt
