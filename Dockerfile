@@ -16,7 +16,9 @@ RUN echo "going to change permissions" && \
 chown -R cstrike /myapp/cstrike/addons/amxmodx/logs && \
 echo "permissions for amxmodx/logs changed" && \
 chown -R cstrike /myapp/cstrike/logs && \
-echo "permissions for cstrike/logs changed"
+echo "permissions for cstrike/logs changed" && \
+chown -R cstrike /myapp/cstrike/addons/podbot/wptdefault && \
+echo "allowed podbot to write visibilities tables"
 RUN echo "going to change user"
 USER cstrike
 CMD ["bash", "-c", "./hlds_run -game cstrike +ip 0.0.0.0 +port 27015 +maxplayers 32 +map fy_iceworld +sys_ticrate 1000"]
